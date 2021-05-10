@@ -1,0 +1,73 @@
+Hey Spirit, what can I say? [insturction_get]
+
+“Good evening! I’m your spirit guide. You can ask ‘where am I?’ or  ‘Why am I here?’”
+
+Where am I? [location_get]
+
+“You are at the D&J Museum of Wonders”
+
+Why am I here? [reason_get]
+
+“You are stuck here after the opening hours”
+
+How do I get out of here? [clue1_getPrompt]
+
+“I’m here to help you find the key! If you ever need me, you can say ‘Hey Spirit, what can I do?’ You need to find 3 clues. Would you like to know about the first clue?”
+
+Yes
+
+[music playing]
+
+I heard something playing [moveToClue1_getPrompt]
+
+“I wonder where the music is coming from. Do you need help to move there?”
+
+Yes move me to where the music is [moveToClue1_start]
+
+[at the record player]
+
+Hey Spirit, what’s this song about? [clue1_start]
+
+“It’s the song DoReMi from the Sound of Music.”
+
+Is there something missing from the song? [clue2_getPrompt]
+
+“Yes, what’s missing?”
+
+Deer is missing from the song! [moveToClue2_getPrompt]
+
+[Deer wobbling sound play] “There IS a deer inside this museum.”
+
+Move me to the deer [moveToClue2_set]
+
+[At the deer]
+Sounds like there is something in the deer [breakClue2_prompt]
+
+“Do you want me to break it?”
+
+Yes, break the deer for me! [breakClue2_set]
+
+[deer breaking sound play; note showed]
+
+Is there a dinosaur skull in this museum? [moveToClue3_getPrompt]
+
+“Yes. Do you want me to move you there?”
+
+Yes, move me to the T-rex skull. [moveToClue3_set]
+
+[At the T-rex skull]
+
+What’s this T-rex skull about? [clue3_start]
+
+“Looks like there’s something inside the skull”
+
+Is that a key inside the skull? [breakClue3_Prompt]
+
+“Yes, do you want me to break it?”
+
+Yes, break the skull for me [breakClue3_set]
+
+[key rises up!]
+
+
+
