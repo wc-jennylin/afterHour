@@ -33,7 +33,7 @@ How do I get out of here? [clue1_getPrompt]
 
 Work with the spirit to escape.
 
-https://raw.githubusercontent.com/wc-jennylin/afterHour/main/clue3.png
+<img width="400" alt="clue" src="https://raw.githubusercontent.com/wc-jennylin/afterHour/main/clue3.png">
 ---------------------------------------------------------------------------------------------------------------------
 
 #Challenges
