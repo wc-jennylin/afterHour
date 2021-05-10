@@ -1,0 +1,16 @@
+curl  -H "Authorization: Bearer CF273BUX3GOXND7DYPZ5HPUH4WKNEKJT" "https://api.wit.ai/message?v=20210507&q=Hello%20Spirit%2C%20what%20can%20I%20say%3F"
+
+
+
+{"text":"Hello Spirit, what can I say?","intents":[{"id":"1766358136859752","name":"what_can_i_say","confidence":1}],"entities":{},"traits":{"wit$on_off":[{"id":"535a80f0-6922-4680-b678-0576f248cdcc","value":"on","confidence":0.9495}],"wit$greetings":[{"id":"5900cc2d-41b7-45b2-b21f-b950d3ae3c5c","value":"true","confidence":0.9982}]}}
+
+
+
+
+
+
+{"text":"Hello Spirit, what can I say?",
+	"intents":[{"id":"1766358136859752","name":"what_can_i_say","confidence":1}],
+	"entities":{},
+	"traits":{"wit$on_off":[{"id":"535a80f0-6922-4680-b678-0576f248cdcc","value":"on","confidence":0.9495}],
+	"wit$greetings":[{"id":"5900cc2d-41b7-45b2-b21f-b950d3ae3c5c","value":"true","confidence":0.9982}]}}
