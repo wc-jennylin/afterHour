@@ -45,7 +45,7 @@ Also both of us during the hackathon had our second dose vaccine.
 Going forward, I'd like to work more with the app if time allows to complete and wit.ai
 -- Chris
 
-# APK LINK:
+# APK Link
 https://drive.google.com/drive/folders/1Np5InLFOqQX-zI9bWb130DeAIFwxyVRo?usp=sharing
 
 - Many thanks to Aaron Faucher creator of Wit3D for a starting place http://afaucher.me/projects/wit3d/
@@ -53,5 +53,5 @@ https://github.com/afauch/wit3d
 
 - Also thanks to FB Hackathon Team 
 
-# VIDEO LINK:
+# Demo/Promo Video Link:
 https://vimeo.com/547736374
