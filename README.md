@@ -9,7 +9,7 @@ An inclusive VR escape room experience in Oculus Quest 2 leveraging voice comman
 As the convention of accessibility in VR hasn't yet been established, we want to be the pioneer in building inclusive VR experience so that people with visual impairment could also share fun moments and connect in VR. My cousin in their 30's is born blind, but we believe they deserve to enjoy Oculus as much as we do, which is one of the motivations that prompt us to build this voice-first VR game.Leveraging Wit.ai, Oculus Quest 2, Unity and TTS(in future) we can enable and enhance VR experiences. 
 
 --------------------------------------------------------------------------------------------
-#Gameplay
+# Gameplay
 Our NPC is a spirit of the museum. 
 Maybe left there from a previous Egyptian exhibit.
 
@@ -36,7 +36,7 @@ Work with the spirit to escape.
 <img width="400" alt="clue" src="https://raw.githubusercontent.com/wc-jennylin/afterHour/main/clue3.png">
 ---------------------------------------------------------------------------------------------------------------------
 
-#Challenges
+# Challenges
  Quest 2 has it's own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.
 We didn't know each other before the hackathon nor did we have a planned app. I knew I'd like to work with VR 
 Also both of us during the hackathon had our second dose vaccine.
