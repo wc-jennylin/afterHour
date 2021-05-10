@@ -41,3 +41,4 @@ Also both of us during the hackathon had our second dose vaccine.
 
 Going forward, I'd like to work more with the app if time allows to complete and wit.ai
 - Chris
+APK LINK - https://drive.google.com/drive/folders/1Np5InLFOqQX-zI9bWb130DeAIFwxyVRo?usp=sharing
