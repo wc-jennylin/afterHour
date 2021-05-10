@@ -1,6 +1,6 @@
 # F8 Refresh Hackathon Project 2021  "After Hour"
-Chris Daniel
-Jenny Lin
+Chris Daniel - https://www.linkedin.com/in/cdaniel2010/
+Jenny Lin - https://www.linkedin.com/in/woanchinjennylin/
 <img width="1024" alt="cover" src="https://user-images.githubusercontent.com/43097420/117728304-4635e200-b1b7-11eb-8285-64fd68f0533d.png">
 An inclusive VR escape room experience in Oculus Quest 2 leveraging voice command using wit.ai for people with or without visual impairment.
 
@@ -30,3 +30,14 @@ How do I get out of here? [clue1_getPrompt]
 
 
 Work with the spirit to escape.
+
+
+
+
+Challenges - Quest 2 has it's own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.
+We didn't know each other before the hackathon nor did we have a planned app. I knew I'd like to work with VR 
+Also both of us during the hackathon had our second dose vaccine.
+
+
+Going forward, I'd like to work more with the app if time allows to complete and wit.ai
+- Chris
