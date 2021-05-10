@@ -5,10 +5,10 @@ Jenny Lin - https://www.linkedin.com/in/woanchinjennylin/
 
 
 # An inclusive VR escape room experience in Oculus Quest 2 leveraging voice command using wit.ai for people with or without visual impairment.
--------------------------------------------------------------------------------------
+
 As the convention of accessibility in VR hasn't yet been established, we want to be the pioneer in building inclusive VR experience so that people with visual impairment could also share fun moments and connect in VR. My niece, in her 30's, was born blind, but we believe they deserve to enjoy Oculus as much as we do, which is one of the motivations that prompt us to build this voice-first VR game.Leveraging Wit.ai, Oculus Quest 2, Unity and TTS(in future) we can enable and enhance VR experiences. 
 
---------------------------------------------------------------------------------------------
+
 # Gameplay
 Our NPC is a spirit of the museum. 
 Maybe left there from a previous Egyptian exhibit.
@@ -34,7 +34,7 @@ How do I get out of here? [clue1_getPrompt]
 Work with the spirit to escape.
 
 <img width="400" alt="clue" src="https://raw.githubusercontent.com/wc-jennylin/afterHour/main/clue3.png">
----------------------------------------------------------------------------------------------------------------------
+
 
 # Challenges
  Quest 2 has it's own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.
