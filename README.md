@@ -50,7 +50,7 @@ I've been so passionate about this project - a challenge to be one of the pionee
 Learned so much about conversation design whose convention also hasn't been established yet. Would love to have the opportunities to continue working on this. -- Jenny 
 
 # Privacy
-We value users privacy and store no data that has any identifing information. We may utilize some text conversations to enhance and provide a more enjoiable game experience.
+We value users' privacy and store no data that has any identifing information. We may utilize some text conversations anonymously to enhance and provide a more enjoyable and inclusive Oculus Quest 2 game experience.
 Additionally we utilize Wit.ai and abide by their standards of practice. https://wit.ai/privacy/ccpa/
 
 # APK Link
