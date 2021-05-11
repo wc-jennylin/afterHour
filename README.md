@@ -46,7 +46,7 @@ Going forward, I'd like to work more with the app if time allows to complete and
 -- Chris
 
 I've been so passionate about this project - a challenge to be one of the pioneers to build VR games for people with visual impairment as I value inclusivity and believe that everyone deserves to experience all benefits of emerging technologies. 
-Learned so much about conversation design whose convention also hasn't been established yet. Would love to have the opportunities to continue working on it. -- Jenny 
+Learned so much about conversation design whose convention also hasn't been established yet. Would love to have the opportunities to continue working on this. -- Jenny 
 
 # APK Link
 https://drive.google.com/drive/folders/1Np5InLFOqQX-zI9bWb130DeAIFwxyVRo?usp=sharing
