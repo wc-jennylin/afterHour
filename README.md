@@ -45,6 +45,9 @@ Also both of us during the hackathon had our second dose vaccine.
 Going forward, I'd like to work more with the app if time allows to complete and wit.ai
 -- Chris
 
+I've been so passionate about this project, a challenge to be one of the pioneers to build VR games for people with visual impairment. 
+Learned so much about conversation design which convention also hasn't been established yet. Would love to have the opportunities to continue working on it. -- Jenny 
+
 # APK Link
 https://drive.google.com/drive/folders/1Np5InLFOqQX-zI9bWb130DeAIFwxyVRo?usp=sharing
 
