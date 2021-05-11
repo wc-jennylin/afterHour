@@ -45,7 +45,7 @@ Also both of us during the hackathon had our second dose vaccine.
 Going forward, I'd like to work more with the app if time allows to complete and wit.ai
 -- Chris
 
-I've been so passionate about this project, a challenge to be one of the pioneers to build VR games for people with visual impairment. 
+I've been so passionate about this project - a challenge to be one of the pioneers to build VR games for people with visual impairment as I value inclusivity and believe that everyone deserves to experience all advantages of new technologies. 
 Learned so much about conversation design which convention also hasn't been established yet. Would love to have the opportunities to continue working on it. -- Jenny 
 
 # APK Link
@@ -58,6 +58,3 @@ https://github.com/afauch/wit3d
 
 # Demo/Promo Video Link:
 https://vimeo.com/547736374
-
-# F8 Project Page:
-https://f82021.facebookhackathons.com/#/projects/609428b8ffc4380019aa72ef
