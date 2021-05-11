@@ -42,7 +42,7 @@ We didn't know each other before the hackathon nor did we have a planned app. I 
 Also both of us during the hackathon had our second dose vaccine.
 
 
-Going forward, I'd like to work more with the app if time allows to complete and wit.ai
+Going forward, I'd like to work more with the app if time allows to complete and wit.ai. I am an avid VR user, VR dev and am happy to see more folks enjoing this medium. I'd like to show my niece something cool. BTW she is very tech savy.
 -- Chris
 
 I've been so passionate about this project - a challenge to be one of the pioneers to build VR games for people with visual impairment as I value inclusivity and believe that everyone deserves to experience all benefits of emerging technologies. 
