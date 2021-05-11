@@ -6,16 +6,16 @@ Jenny Lin - https://www.linkedin.com/in/woanchinjennylin/
 
 # An inclusive VR escape room experience in Oculus Quest 2 leveraging voice command using wit.ai for people with or without visual impairment.
 
-As the convention of accessibility in VR hasn't yet been established, we want to be the pioneer in building inclusive VR experience so that people with visual impairment could also share fun moments and connect in VR. My niece, in her 30's, was born blind, but we believe they deserve to enjoy Oculus as much as we do, which is one of the motivations that prompt us to build this voice-first VR game.
-Leveraging Wit.ai, Oculus Quest 2, Unity and TTS(in future) we can enable and enhance VR experiences. 
+As the convention of accessibility in VR hasn't yet been established, we want to be the pioneer in building inclusive VR experience so that people with visual impairment could also share fun moments and connect in VR. Chris' niece, in her 30's, was born blind, but we believe she deserves to enjoy Oculus as much as we do, which is one of the motivations that prompt us to build this voice-first VR game.
+Leveraging Wit.ai, Oculus Quest 2, Unity and TTS(in future) we can enable, enhance, empower, and make VR experiences inclusive. 
 
 
 # Gameplay
 Our NPC is a spirit of the museum. it speaks to us via NLP and TTS(future).
 Maybe left there from a previous Egyptian exhibit.
 
-Say "Hello Spirit" and he will respond.
-Ask him many questions about the museum and he can help you in your hour of need.
+Say "Hello Spirit" and they will respond.
+Ask them many questions about the museum and they can help you in your hour of need.
 
 Hey Spirit, what can I say? [instruction_get]
 
@@ -38,8 +38,8 @@ Work with the spirit to escape.
 
 
 # Challenges
- Quest 2 has it's own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.
-We didn't know each other before the hackathon nor did we have a planned app. I knew I'd like to work with VR 
+Quest 2 has its own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.
+We didn't know each other before the hackathon nor did we have a planned app. I knew I'd like to work with VR. 
 Also both of us during the hackathon had our second dose vaccine.
 
 
