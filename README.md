@@ -58,3 +58,6 @@ https://github.com/afauch/wit3d
 
 # Demo/Promo Video Link:
 https://vimeo.com/547736374
+
+# F8 Project Page:
+https://f82021.facebookhackathons.com/#/projects/609428b8ffc4380019aa72ef
