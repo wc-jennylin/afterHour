@@ -38,8 +38,8 @@ Work with the spirit to escape.
 
 
 # Challenges
-Quest 2 has its own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.Tried at least 4 different methods to access the mic data stream. Microphone works, store data works, send to wit works, rest coming back works.(logcat in files) AudioClip.Create, assign clip to AudioSource.. BTW learned you must have an AudioSource with a Microphone. 
-We didn't know each other before the hackathon nor did we have a planned app. I knew I'd like to work with VR. 
+Quest 2 has its own challenges but our most difficult challenge was to get a wav with 10 seconds of voice to send to wit.ai.Tried at least 4 different methods to access the mic data stream. Microphone works, store data works, send to wit works, rest coming back works.(logcat in files) - mic voice data did not get saved and merged to wav creation. Attempted various methods ie. AudioClip.Create, assign clip to AudioSource. BTW learned you must have an AudioSource with a Microphone. 
+We didn't know each other before the hackathon nor did we have a planned app. Chris knew he'd like to work with VR. Jenny is passionate about inclusive design.
 Also both of us during the hackathon had our second dose vaccine.
 
 
