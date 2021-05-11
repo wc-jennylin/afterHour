@@ -10,7 +10,7 @@ As the convention of accessibility in VR hasn't yet been established, we want to
 
 
 # Gameplay
-Our NPC is a spirit of the museum. 
+Our NPC is a spirit of the museum. it speaks to us via NLP and TTS(future).
 Maybe left there from a previous Egyptian exhibit.
 
 Say "Hello Spirit" and he will respond.
