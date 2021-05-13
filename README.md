@@ -11,8 +11,9 @@ Leveraging Wit.ai, Oculus Quest 2, Unity and TTS(in future) we can enable, enhan
 
 
 # Gameplay
-Our NPC is a spirit of the museum. it speaks to us via NLP and TTS(future).
+Our NPC is a spirit of the museum. 
 Maybe left there from a previous Egyptian exhibit.
+It speaks to us via NLP utilizing wit.ai and TTS(future).
 
 Say "Hello Spirit" and they will respond.
 Ask them many questions about the museum and they can help you in your hour of need.
