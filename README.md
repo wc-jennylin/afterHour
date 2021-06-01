@@ -64,3 +64,8 @@ https://github.com/afauch/wit3d
 
 # Demo/Promo Video Link:
 https://vimeo.com/547736374
+
+
+# Update 6-1-21
+
+Wit.AI and app are connected, re-examining the converstations and overall game design for possible release. - cd 
